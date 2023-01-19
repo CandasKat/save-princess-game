@@ -1,0 +1,17 @@
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/bin/Debug/net6.0/epsic-320-labo3
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/bin/Debug/net6.0/epsic-320-labo3.deps.json
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/bin/Debug/net6.0/epsic-320-labo3.runtimeconfig.json
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/bin/Debug/net6.0/epsic-320-labo3.dll
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/bin/Debug/net6.0/ref/epsic-320-labo3.dll
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/bin/Debug/net6.0/epsic-320-labo3.pdb
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/bin/Debug/net6.0/ConsoleTables.dll
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/obj/Debug/net6.0/epsic-320-labo3.csproj.AssemblyReference.cache
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/obj/Debug/net6.0/epsic-320-labo3.GeneratedMSBuildEditorConfig.editorconfig
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/obj/Debug/net6.0/epsic-320-labo3.AssemblyInfoInputs.cache
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/obj/Debug/net6.0/epsic-320-labo3.AssemblyInfo.cs
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/obj/Debug/net6.0/epsic-320-labo3.csproj.CoreCompileInputs.cache
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/obj/Debug/net6.0/epsic-320-labo3.csproj.CopyComplete
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/obj/Debug/net6.0/epsic-320-labo3.dll
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/obj/Debug/net6.0/ref/epsic-320-labo3.dll
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/obj/Debug/net6.0/epsic-320-labo3.pdb
+/home/candas/Documents/320-POO/labos/labo3/Labo3-src/obj/Debug/net6.0/epsic-320-labo3.genruntimeconfig.cache

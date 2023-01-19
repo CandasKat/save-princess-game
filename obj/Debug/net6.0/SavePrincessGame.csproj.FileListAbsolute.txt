@@ -1,0 +1,17 @@
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/bin/Debug/net6.0/SavePrincessGame
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/bin/Debug/net6.0/SavePrincessGame.deps.json
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/bin/Debug/net6.0/SavePrincessGame.runtimeconfig.json
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/bin/Debug/net6.0/SavePrincessGame.dll
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/bin/Debug/net6.0/ref/SavePrincessGame.dll
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/bin/Debug/net6.0/SavePrincessGame.pdb
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/bin/Debug/net6.0/ConsoleTables.dll
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/obj/Debug/net6.0/SavePrincessGame.csproj.AssemblyReference.cache
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/obj/Debug/net6.0/SavePrincessGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/obj/Debug/net6.0/SavePrincessGame.AssemblyInfoInputs.cache
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/obj/Debug/net6.0/SavePrincessGame.AssemblyInfo.cs
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/obj/Debug/net6.0/SavePrincessGame.csproj.CoreCompileInputs.cache
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/obj/Debug/net6.0/SavePrincessGame.csproj.CopyComplete
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/obj/Debug/net6.0/SavePrincessGame.dll
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/obj/Debug/net6.0/ref/SavePrincessGame.dll
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/obj/Debug/net6.0/SavePrincessGame.pdb
+/home/candas/Documents/320-POO/labos/save-princess-game/save-princess-game/obj/Debug/net6.0/SavePrincessGame.genruntimeconfig.cache
