@@ -3,10 +3,14 @@
 <h1>save-princess-game</h1>
 </div
  
-This is a console game developed for OOP lab work.
+This is a simple cli adventure game developed for OOP lab work.
 
 ### :telescope: Objectives and Tips:
 
-- :skull_and_crossbones: Rescue a princess kidnapped by bad guys.
+- ☠️ Rescue the princess kidnapped by the villains.
 
-- :muscle: Don't forget to buy the necessary weapons and equipment from the market
+- 🛒 Don’t forget to buy necessary weapons and equipment from the market before facing enemies.
+
+- ⚔️ Balance your health and magic during fights.
+  
+- 💡 Save your progress frequently.
